@@ -54,7 +54,9 @@ npm test
 
 ## Live Deployment
 
-The refactored service is intended for deployment as a Node.js web service with build command `npm install` and start command `npm start`. The live URL for this submission will be added here after deployment.
+The refactored service runs as a Node.js web service with build command `npm install` and start command `npm start`.
+
+**Live deployment:** [Dev Confessions API](https://3000-i9nwa0wdnt6x3x4wt6rt6-6b7bf0a7.sg1.manus.computer)
 
 ## Documentation
 
